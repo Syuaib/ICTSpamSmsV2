@@ -33,11 +33,11 @@ echo $Y.
                   |_|
 ";
 echo $R."\n".'++++++++++++++++++++++++++++++++++++++';
-echo $B."\n".'Maker   : MuhSyuaib                   '.$R.'+';
-echo $B."\n".'Github  : https://github.com/Syuaib.  '.$R.'+';
-echo $B."\n".'Team    : ICT Security                '.$R.'+';
-echo $B."\n".'Version : 1.0                         '.$R.'+';
-echo $B."\n".'Date    : 18-02-2019                  '.$R.'+';
+echo $B."\n".'Maker   : MuhSyuaib                  '.$R.'+';
+echo $B."\n".'Github  : https://github.com/Syuaib  '.$R.'+';
+echo $B."\n".'Team    : ICT Security               '.$R.'+';
+echo $B."\n".'Version : 1.0                        '.$R.'+';
+echo $B."\n".'Date    : 18-02-2019                 '.$R.'+';
 echo $R."\n".'++++++++++++++++++++++++++++++++++++++'.$G.$X."\n";
 if(!isset($argv[1])) {
 	fprintf(STDERR,$RR.'[!] Input No List [!]'.$X);
